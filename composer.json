@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "description": "brain_game",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Shlyatsky",
+            "email": "42865006+Dmitryshl@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+}
